@@ -1,14 +1,14 @@
 @font-face {
     font-family: Inter;
-    src:url("/assets/fonts/Inter-VariableFont_slnt\,wght.ttf");
-    src:url("assets/fonts/static/Inter-Bold.ttf");
-    src:url("assets/fonts/static/Inter-Regular.ttf")
+    src:url("fonts/Inter-VariableFont_slnt\,wght.ttf");
+    src:url("fonts/static/Inter-Bold.ttf");
+    src:url("fonts/static/Inter-Regular.ttf")
 
 }
 
 @font-face {
     font-family: Inter-Bold;
-    src:url("assets/fonts/static/Inter-Bold.ttf");
+    src:url("fonts/static/Inter-Bold.ttf");
 }
 
 @media screen and (min-width:300px) and (max-width:1000px) {
